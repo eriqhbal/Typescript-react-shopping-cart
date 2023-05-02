@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "urlImage": "https://source.unsplash.com/360x200?book"
+   },
+   {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1199,
+      "urlImage": "https://source.unsplash.com/360x200?laptop"
+   },
+   {
+      "id": 3,
+      "name": "Banana",
+      "price": 20.11,
+      "urlImage": "https://source.unsplash.com/360x200?banana"
+   },
+   {
+      "id": 4,
+      "name": "Car",
+      "price": 20.54,
+      "urlImage": "https://source.unsplash.com/360x200?car"
+   }
+]
